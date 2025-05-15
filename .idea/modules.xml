@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PyCharmMiscProject.iml" filepath="$PROJECT_DIR$/PyCharmMiscProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/waste_classification/.idea/waste_classification.iml" filepath="$PROJECT_DIR$/../PycharmProjects/waste_classification/.idea/waste_classification.iml" />
+    </modules>
+  </component>
+</project>
